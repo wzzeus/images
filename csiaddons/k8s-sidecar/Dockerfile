@@ -1,0 +1,1 @@
+from quay.io/csiaddons/k8s-sidecar:v0.7.0
