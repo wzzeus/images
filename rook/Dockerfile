@@ -1,0 +1,11 @@
+from gcr.io/k8s-staging-sig-storage/objectstorage-sidecar/objectstorage-sidecar:v20230130-v0.1.0-24-gc0cf995
+from quay.io/ceph/ceph:v17.2.6
+from quay.io/ceph/cosi:v0.1.1
+from quay.io/cephcsi/cephcsi:v3.9.0
+from quay.io/csiaddons/k8s-sidecar:v0.7.0
+from registry.k8s.io/sig-storage/csi-attacher:v4.3.0
+from registry.k8s.io/sig-storage/csi-node-driver-registrar:v2.8.0
+from registry.k8s.io/sig-storage/csi-provisioner:v3.5.0
+from registry.k8s.io/sig-storage/csi-resizer:v1.8.0
+from registry.k8s.io/sig-storage/csi-snapshotter:v6.2.2
+from rook/ceph:v1.12.4 
